@@ -33,4 +33,4 @@ BinaryCounter/
 
 ## Author
 
-**Dave Odek**
+**Dave Oduong**
